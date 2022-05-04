@@ -31,7 +31,7 @@ I have 5 years of programing skills and 1 year of comerical skils
                                 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
                     </p>
                     
-                  ### Socials
+                 Socials
                   
                   
                 <p align="left">
