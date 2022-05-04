@@ -42,7 +42,10 @@ I have 5 years of programing skills and 1 year of comerical skils
                           
 <a href="https://www.linkedin.com/in/сунат-боев-32336a204/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
                           
-<a href="https://www.stackoverflow.com/users/16640995/mr-king" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b>
+<a href="https://www.stackoverflow.com/users/16640995/mr-king" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+</p>
+### Badges
+<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Sunat2001"><img src="https://github-readme-stats.vercel.app/api?username=Sunat2001&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sunat2001's GitHub stats" /></a>
 
