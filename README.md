@@ -1,7 +1,7 @@
 Hi 👋 My name is Sunat
 ======================
 
-Full-stack web developer
+I am Full-stack web developer
 ------------------------
 
 I have 5 years of programing skills and 1,5 year of comerical developer skils
