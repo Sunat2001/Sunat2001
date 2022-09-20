@@ -9,7 +9,7 @@ I have 5 years of programing skills and 1,5 year of comerical developer skils
 *   🌍  I'm based in Dushanbe
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/%D1%81%D1%83%D0%BD%D0%B0%D1%82-%D0%B1%D0%BE%D0%B5%D0%B2-32336a204/)
 *   ✉️  You can contact me at [sunatjon.yusupov@gmail.com](mailto:sunatjon.yusupov@gmail.com)
-*   🚀  I'm currently working on [Alif BankOJSC](http://alif.tj)
+*   🚀  I'm currently working on [Tcell Tajikistan](http://tcell.tj)
 *   🧠  I'm learning Golang
 ### Skills
 <p align="left">
