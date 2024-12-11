@@ -4,7 +4,7 @@ Hi 👋 My name is Sunat
 I am Full-stack web developer
 ------------------------
 
-I have 7 years of programing skills and 3 year of comerical developer skils
+I have 7 years of programing skills and 4 year of comerical developer skils
 
 *   🌍  I'm based in Dubai
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sunat-boev-32336a204/)
