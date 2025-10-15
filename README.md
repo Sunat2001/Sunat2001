@@ -10,7 +10,7 @@ I have 9 years of programing skills and 5 year of comerical developer skils
 *   🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/sunat-boev-32336a204/)
 *   ✉️  You can contact me at [sunatjon.yusupov@gmail.com](mailto:sunatjon.yusupov@gmail.com)
 *   🚀  I'm currently working on [KeepCode IT](https://keepcode.org/)
-*   🧠  I'm learning Golang
+*   🧠  I'm learning High-Load Architectures
 ### Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
